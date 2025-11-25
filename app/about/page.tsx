@@ -23,11 +23,11 @@ export default function AboutPage() {
         {/* Section 1 */}
         <section className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
            <div className="space-y-6">
-             <h2 className="text-3xl font-serif">Founded on Simplicity</h2>
+             <h2 className="text-3xl font-serif">Breathing Room for Life</h2>
              <p className="text-stone-600 leading-relaxed">
-               Kanso was born from a desire to strip away the unnecessary. In Japanese aesthetics, 
-               'Kanso' refers to simplicity and the elimination of clutter. We take this philosophy 
-               to heart in everything we design.
+               Aeris was born from a desire to bring lightness and flow into the home. Derived from the Latin 
+               word for &apos;Air&apos;, our philosophy is centered on creating spaces that breathe. We believe 
+               furniture should be grounded yet uplifting, simple yet significant.
              </p>
            </div>
            <div className="relative aspect-square bg-stone-100">

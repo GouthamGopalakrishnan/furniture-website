@@ -6,42 +6,42 @@ const CATALOG_PRODUCTS = [
     name: "Nara Lounge Chair",
     category: "Seating",
     price: 850,
-    image: "https://images.unsplash.com/photo-1592078615290-033ee584e267?q=80&w=1000&auto=format&fit=crop"
+    image: "https://images.unsplash.com/photo-1580480055273-228ff5388ef8?q=80&w=1000&auto=format&fit=crop"
   },
   {
     id: "lamp-01",
     name: "Akari Floor Lamp",
     category: "Lighting",
     price: 420,
-    image: "https://images.unsplash.com/photo-1507473888900-52a19b8a3d6b?q=80&w=1000&auto=format&fit=crop"
+    image: "https://images.unsplash.com/photo-1517991104123-1d56a6e81ed9?q=80&w=1000&auto=format&fit=crop"
   },
   {
     id: "sofa-01",
     name: "Cloud Sectional",
     category: "Living",
     price: 3200,
-    image: "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?q=80&w=1000&auto=format&fit=crop"
+    image: "https://images.unsplash.com/photo-1493663284031-b7e3aefcae8e?q=80&w=1000&auto=format&fit=crop"
   },
   {
     id: "table-01",
     name: "Oak Dining Table",
     category: "Dining",
     price: 1800,
-    image: "https://images.unsplash.com/photo-1577140917170-285929dfe55c?q=80&w=1000&auto=format&fit=crop"
+    image: "https://images.unsplash.com/photo-1533090161767-e6ffed986c88?q=80&w=1000&auto=format&fit=crop"
   },
   {
     id: "vase-01",
     name: "Ceramic Vase Set",
     category: "Decor",
     price: 120,
-    image: "https://images.unsplash.com/photo-1581783342308-f792ca11df53?q=80&w=1000&auto=format&fit=crop"
+    image: "https://images.unsplash.com/photo-1533090161767-e6ffed986c88?q=80&w=1000&auto=format&fit=crop"
   },
   {
     id: "shelf-01",
     name: "Minimalist Shelving",
     category: "Storage",
     price: 550,
-    image: "https://images.unsplash.com/photo-1598300042247-d088f8ab3a91?q=80&w=1000&auto=format&fit=crop"
+    image: "https://images.unsplash.com/photo-1594026112284-02bb6f3352fe?q=80&w=1000&auto=format&fit=crop"
   },
    {
     id: "chair-02",
@@ -55,7 +55,7 @@ const CATALOG_PRODUCTS = [
     name: "Brass Table Lamp",
     category: "Lighting",
     price: 280,
-    image: "https://images.unsplash.com/photo-1513506003013-d3d6233b4991?q=80&w=1000&auto=format&fit=crop"
+    image: "https://images.unsplash.com/photo-1517991104123-1d56a6e81ed9?q=80&w=1000&auto=format&fit=crop"
   }
 ];
 

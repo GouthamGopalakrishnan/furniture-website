@@ -8,8 +8,8 @@ const inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
 const playfair = Playfair_Display({ subsets: ["latin"], variable: "--font-serif" });
 
 export const metadata: Metadata = {
-  title: "Kanso | Minimalist Furniture",
-  description: "Curated furniture for the mindful home.",
+  title: "Aeris | Modern Living",
+  description: "Curated furniture that breathes life into your space.",
 };
 
 export default function RootLayout({
@@ -19,7 +19,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={`${inter.variable} ${playfair.variable} antialiased flex flex-col min-h-screen`}>
+      <body className={`${inter.variable} ${playfair.variable} font-sans antialiased flex flex-col min-h-screen`}>
         <Navbar />
         <main className="flex-grow">
           {children}

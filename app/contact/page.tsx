@@ -6,7 +6,7 @@ export default function ContactPage() {
        <header className="mb-16 text-center max-w-2xl mx-auto">
         <h1 className="text-4xl md:text-5xl font-serif mb-6">Get in Touch</h1>
         <p className="text-stone-500 text-lg">
-          Have a question about a product or need design advice? We're here to help.
+          Have a question about a product or need design advice? We&apos;re here to help.
         </p>
       </header>
 
@@ -62,7 +62,7 @@ export default function ContactPage() {
           <div>
              <h3 className="text-xl font-serif mb-4">Contact</h3>
              <p className="text-stone-600 leading-relaxed">
-               hello@kanso.com<br/>
+               hello@aeris.com<br/>
                +1 (555) 123-4567
              </p>
           </div>

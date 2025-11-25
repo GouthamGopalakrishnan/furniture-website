@@ -4,7 +4,7 @@ export const Navbar = () => {
   return (
     <nav className="w-full py-6 px-6 md:px-12 flex justify-between items-center bg-[var(--background)] sticky top-0 z-50 border-b border-stone-200">
       <Link href="/" className="text-2xl font-serif font-bold tracking-tighter hover:text-[var(--accent-clay)] transition-colors">
-        Kanso.
+        Aeris.
       </Link>
       
       <div className="hidden md:flex gap-8 items-center">

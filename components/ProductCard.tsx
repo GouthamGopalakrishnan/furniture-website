@@ -2,16 +2,15 @@ import Image from 'next/image';
 import Link from 'next/link';
 
 interface ProductCardProps {
-  id: string;
   name: string;
   category: string;
   price: number;
   image: string;
 }
 
-export const ProductCard: React.FC<ProductCardProps> = ({ id, name, category, price, image }) => {
+export const ProductCard: React.FC<ProductCardProps> = ({ name, category, price, image }) => {
   return (
-    <Link href={`/catalog/${id}`} className="group block">
+    <Link href={`/catalog`} className="group block">
       <div className="relative aspect-[3/4] overflow-hidden bg-stone-100 mb-4">
         <Image 
           src={image} 
